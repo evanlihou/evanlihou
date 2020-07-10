@@ -1,4 +1,4 @@
-### Hi there 👋
+![Under Construction GIF a-la Geocities, which was way before my time](https://web.archive.org/web/20090728210456/http://de.geocities.com/helloman46/consbar.gif)
 
 <!--
 **evanlihou/evanlihou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
